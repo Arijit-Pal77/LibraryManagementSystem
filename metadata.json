@@ -1,0 +1,6 @@
+{
+  "name": "Athenaeum Java LMS",
+  "description": "A complete Java 17 Maven Library Management System with interactive circulation simulator, Java CLI emulator, and downloadable source explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
